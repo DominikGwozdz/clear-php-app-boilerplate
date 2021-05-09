@@ -14,10 +14,6 @@ Project includes:
 1. Run docker-compose up
 2. It is ready. You can type your code at `public` dir.
 
-##Future Plans
-
-1. Add composer PSR-4 compatibility
-
 ##Requirements
 
 - Docker
