@@ -13,6 +13,7 @@ Project includes:
 
 1. Run docker-compose up
 2. It is ready. You can type your code at `public` dir.
+3. Visit localhost:8000
 
 ##Requirements
 
