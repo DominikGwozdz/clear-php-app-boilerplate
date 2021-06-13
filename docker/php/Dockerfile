@@ -1,5 +1,8 @@
 FROM php:8.0.0-fpm
 
+ARG USER_ID
+ARG GROUP_ID
+
 # Install system dependencies
 RUN apt-get update && apt-get install -y apt-utils && apt-get install -y git && apt-get install -y libzip-dev && apt-get install -y zip && apt-get install -y libicu-dev
 
