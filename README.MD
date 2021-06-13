@@ -15,6 +15,8 @@ Project includes:
 2. It is ready. You can type your code at `public` dir.
 3. Visit localhost:8000
 
+If you need to install some composer dependencies just run `docker exec composer req author/package_name`
+
 ##Requirements
 
 - Docker
