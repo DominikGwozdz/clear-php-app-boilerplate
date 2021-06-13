@@ -1,6 +1,6 @@
-#Starter for PHP Application written with clear PHP code
+# Starter for PHP Application written with clear PHP code
 
-##Description
+## Description
 
 Project includes:
 
@@ -9,7 +9,7 @@ Project includes:
 - NGINX as webserver
 - Composer
 
-##Instruction
+## Instruction
 
 1. Run docker-compose up
 2. It is ready. You can type your code at `public` dir.
@@ -17,7 +17,7 @@ Project includes:
 
 If you need to install some composer dependencies just run `docker exec composer req author/package_name`
 
-##Requirements
+## Requirements
 
 - Docker
 - Docker-compose
